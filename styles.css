@@ -5,7 +5,6 @@
 	background-color: #333;
 	overflow: hidden;
 }
-
 /* Style the links inside the navigation bar */
 .topnav a {
 	position: center;
@@ -50,6 +49,7 @@ h2 {
 body {
 	background-color: #333333;
 	color: white;}
+
 .footer {
 	position: fixed;
 	left: 0;
