@@ -50,7 +50,8 @@ body {
 	background-color: #333333;
 	color: white;}
 
-.footer {
+.footer
+{
 	position: fixed;
 	left: 0;
 	bottom: 0;
@@ -59,4 +60,10 @@ body {
 	text-align: center;
 	font-size: 20px;
 	color: white;
+}
+b:link{
+	color: white;
+}
+b:hover{
+	color: wheat;
 }
