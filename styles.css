@@ -61,9 +61,12 @@ body {
 	font-size: 20px;
 	color: white;
 }
-b:link{
+.footer a{
 	color: white;
 }
-b:hover{
+.footer a:active{
+	color: white;
+}
+.footer a:hover{
 	color: wheat;
 }
